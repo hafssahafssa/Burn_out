@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <data>
+<!--        <record model="ir.ui.view" id="hr_kanban_view_employees">-->
+<!--            <field name="name">Add Employee</field>-->
+<!--            <field name="model">hr.employee</field>-->
+<!--            <field name="inherit_id" ref="hr.hr_kanban_view_employees"/>-->
+<!--            <field name="arch" type="xml">-->
+
+<!--            </field>-->
+<!--        </record>-->
+    </data>
+</odoo>
