@@ -2,7 +2,7 @@
 {
 
     'name': "Burn OUt Test",
-    'summary': 'The Maslach and Jackson Burn Out inventory ',
+    'summary': 'The Maslach and Jackson Burn Out inventory , ',
     'depends': ['base',
                 'survey',
                 'hr'],
